@@ -4,7 +4,7 @@ The project developed for the Software Measurement module target defined procedu
   <li> Establish and sustain the measurment commitment </li>
   <li> Plan the measurment process </li>
   <li> Perform the measurment </li>
-  <li>  </li>
+  <li> Retrospective Analysis </li>
 </ol>
 
 
