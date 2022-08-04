@@ -7,5 +7,4 @@ The project developed for the Software Measurement module target defined procedu
   <li> Retrospective Analysis </li>
 </ol>
 
-
-assement of  
+ 
